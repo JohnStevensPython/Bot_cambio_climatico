@@ -1,0 +1,2 @@
+0 No contaminante
+1 Contaminante
